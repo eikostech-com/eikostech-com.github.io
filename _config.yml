@@ -6,6 +6,6 @@ author:
 description: "A simple page of what I do"
 
 # Build settings
-remote_theme: pages-themes/minima
+remote_theme: pages-themes/modernist@v0.2.0
 show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
