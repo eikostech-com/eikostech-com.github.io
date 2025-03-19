@@ -1,5 +1,5 @@
 ### Welcome to Eikostech.com
-My name is Michael Smith. I've been using computers since I was 14, and since I'm in my early sixties that's saying a lot!
+My name is Michael Smith. I've been using computers since I was 14, and since I'm in my early sixties that's ... quite a while!
 
 ## Tired of advertisements and scams on the Internet?
 ## I CAN HELP!
