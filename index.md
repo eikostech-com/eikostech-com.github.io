@@ -10,4 +10,5 @@ I can't promise that you'll never have an issue again, but I CAN promise:
     Better search results
     Less chance of running across scam or spam websites
 
-## Want to know more? Let's talk!
+## Want to know more? Let's talk! My email address is below.
+
