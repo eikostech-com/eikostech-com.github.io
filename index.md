@@ -11,5 +11,5 @@ I can't promise that you'll never have an issue again, but I CAN promise:
 + Less chance of running across scam or spam websites
 
 ## Want to know more? Let's talk! My email address is below. You'll need to type it out, the picture's not clickable so my email can't be "harvested" by bots.
-![msmith AT eikostech.com](https://github.com/eikostech-com/eikostech-com.github.io/blob/main/graphic-email-addy.png)
+![msmith AT eikostech.com](https://eikostech-com.github.io/graphic-email-addy.png)
 
