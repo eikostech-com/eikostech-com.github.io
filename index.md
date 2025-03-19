@@ -6,9 +6,10 @@ My name is Michael Smith. I've been using computers since I was 14, and since I'
 
 I can't promise that you'll never have an issue again, but I CAN promise:
 
-    Fewer ads
-    Better search results
-    Less chance of running across scam or spam websites
++Fewer ads
++Better search results
++Less chance of running across scam or spam websites
 
 ## Want to know more? Let's talk! My email address is below.
+![msmith AT eikostech.com](https://github.com/eikostech-com/eikostech-com.github.io/blob/main/graphic-email-addy.png)
 
