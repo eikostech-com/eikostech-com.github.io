@@ -1,9 +1,9 @@
 # Site settings
 title: Welcome to Eikos Technical Services LLC
-author:
+author: Michael Smith
   name: Michael Smith
   # email: your-email@domain.com
-description: "A simple page of what I do"
+description: "Personal, bespoke IT services for small businesses and individuals since 1997"
 
 # Build settings
 remote_theme: pages-themes/modernist@v0.2.0
